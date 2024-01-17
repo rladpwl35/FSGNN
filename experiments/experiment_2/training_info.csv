@@ -1,0 +1,2 @@
+,Experiment No.,Node feature,Edge sparsity,SNP data type,QT data type,Batch size,Learning Rate,Fold 1 epochs,Fold 1 cls accuracy,Fold 2 epochs,Fold 2 cls accuracy,Fold 3 epochs,Fold 3 cls accuracy,Fold 4 epochs,Fold 4 cls accuracy,Mean cls accuracy
+0,2,pcor,10,real,norm,31,0.0002236311531323531,27,0.5,38,0.53125,34,0.4375,41,0.46875,0.484375
